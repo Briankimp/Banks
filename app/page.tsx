@@ -64,13 +64,13 @@ viewBox="0 0 466 511.98">
               priority
             />
           </div>
-          <div className="container relative z-10">
+          <div className="container relative text-[#fffff] z-10">
             <div className="grid gap-8 md:grid-cols-2 items-center">
               <div className="space-y-6">
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">
                   Fresh Groceries Delivered to Your Doorstep!
                 </h1>
-                <p className="text-xl text-muted-foreground">
+                <p className="text-xl text-[#fffff]">
                   Shop for fresh produce, household essentials, and local favorites with our convenient mobile app.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
